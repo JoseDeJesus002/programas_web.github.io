@@ -1,0 +1,51 @@
+input{
+    text-align: center;
+    font-family: 'Courier New', 'Lucida Sans Typewriter';
+    font-size: 13px;
+    border-radius: 5px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: 1px solid rgba(0, 0, 0, 0);
+}
+button{
+    font-family: 'Courier New', 'Lucida Sans Typewriter';
+    background-color: #d7e2d7;
+    border: #d7e2d7;
+    border-radius: 20px;
+    color: rgb(26, 24, 24);
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration:none ;
+    display: inline-block;
+    font-size: 13px;
+    margin: 2px 2px;
+    cursor: pointer;
+}
+
+div.contenido{
+    background-size: 100% 100%;
+    padding: 10px;
+    border: 1px solid rgb(196, 191, 191);
+    border-radius: 10px;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+p{
+    font-family: 'Courier New', 'Lucida Sans Typewriter';
+    font-size: 14px;
+}
+h1.titulo{
+    font-family: 'Courier New', 'Lucida Sans Typewriter';
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h2.encabezado{
+    font-family: 'Courier New', 'Lucida Sans Typewriter';
+    font-size: 20px;
+    font-weight: bold;
+}
